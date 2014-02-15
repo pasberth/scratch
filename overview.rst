@@ -192,3 +192,7 @@ MYIは、仕方がないので、すべてを押し流す大洪水を起こし�
 * `ソリア <http://ja.memory-alpha.org/wiki/%E3%82%BD%E3%83%AA%E3%82%A2>`_
 * `ソリアン <http://ja.memory-alpha.org/wiki/%E3%82%BD%E3%83%AA%E3%82%A2%E3%83%B3>`_
 * `ヒューマノイド <http://ja.memory-alpha.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89>`_
+
+* `技術的特異点 <http://ja.wikipedia.org/wiki/%E6%8A%80%E8%A1%93%E7%9A%84%E7%89%B9%E7%95%B0%E7%82%B9>`_
+* `ポストヒューマン (人類進化) <http://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3_%28%E4%BA%BA%E9%A1%9E%E9%80%B2%E5%8C%96%29>`_
+* `強いAIと弱いAI <http://ja.wikipedia.org/wiki/%E5%BC%B7%E3%81%84AI%E3%81%A8%E5%BC%B1%E3%81%84AI>`_
