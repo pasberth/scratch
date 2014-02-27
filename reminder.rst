@@ -11,3 +11,7 @@
 * `エオフレムとエオフィアス <https://gist.github.com/pasberth/05e6375cdc23d4c9ec0e>`_
 * `DestructiveTalker.txt <https://gist.github.com/pasberth/4418469>`_
 * `copied_bells.txt <https://gist.github.com/pasberth/4501553>`_
+* `Elsie.md <https://gist.github.com/pasberth/5911159>`_
+* `gist:5302934 <https://gist.github.com/pasberth/5302934>`_
+* `FAXNET.txt <https://gist.github.com/pasberth/4418353>`_
+* `イリスから見たパピルは地球から見た月より36.73902倍大きく見える <https://gist.github.com/pasberth/3904171>`_
