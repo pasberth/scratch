@@ -9,3 +9,5 @@
 * `人間関係など <https://gist.github.com/pasberth/0529c21cb2fb70319143>`_
 * `Bellsend profiles <https://gist.github.com/pasberth/2c8dfdeef2b6ffbb092a>`_
 * `エオフレムとエオフィアス <https://gist.github.com/pasberth/05e6375cdc23d4c9ec0e>`_
+* `DestructiveTalker.txt <https://gist.github.com/pasberth/4418469>`_
+* `copied_bells.txt <https://gist.github.com/pasberth/4501553>`_

@@ -144,3 +144,15 @@ TODO: くわしくまとめる。
 
 
 
+MYI と出会ったあと、パスベルスは MYI に
+自分自身のコピーをつくってもらう [#m]_ 。
+コピーはコピードベルスと名付けられ、
+髪は赤く、瞳は緑色だった。
+TODO: いつのできごと？？
+
+.. [#m] `copied_bells.txt <https://gist.github.com/pasberth/4501553>`_
+
+1930年、パスベルスはアクトニアにいた。
+砂漠の宿でエアラドとはじめて会う [#n]_ 。
+
+.. [#n] `DestructiveTalker.txt <https://gist.github.com/pasberth/4418469>`_
