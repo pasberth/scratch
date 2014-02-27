@@ -26,8 +26,14 @@ Y    M  D  Overview
 1851 \- \-  フアラドが生まれる
 1855 \- \-  ドーリアスが生まれる
 1860 \- \-  ベラルスが生まれる
+1862 \- \-  アルカーンがベラルスの父を殺害する
+1862 \- \-  ベラルスの母が夫殺しの罪で有罪になる
+1862 \- \-  ベラルスがアルケルンに引き取られる
+1866 \- \-  アルカーンがアルケルンを殺害する
+1866 \- \-  ベラルスがアルカーンに引き取られる
 1870 \- \-  `3派戦争 <https://github.com/pasberth/paslands/blob/master/source/rp/history/three_war.rst>`_
             が勃発した
+187x \- \-  ベラルスとフアラドが出会う
 1880 \- \-  アデラが生まれる
 1881 \- \-  エオレイマが生まれる
 1884 \- \-  `3派戦争 <https://github.com/pasberth/paslands/blob/master/source/rp/history/three_war.rst>`_
@@ -35,6 +41,7 @@ Y    M  D  Overview
 1884 \- \-  ルニアが分裂し、聖ルニア、正統ルニアが生まれた
 1884 \- \-  `正統ルニアの奴隷に関する法律 <https://github.com/pasberth/paslands/blob/master/source/rp/history/slave_laws.rst>`_
             が定められた
+1886 \- \-  アルカーンがアデラに剣術を教える
 1888 \- \-  ルーナ・ヴァライドリンが生まれる
 1890 \- \-  ワトロルンが生まれる
 1891 \- \-  アルベルン1世が生まれる
