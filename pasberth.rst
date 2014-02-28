@@ -92,6 +92,12 @@
 にいた [#d]_ 。この頃からパスベルスはパストラフェに帰りたいと思うようになる。
 TODO: くわしくまとめる。
 
+1924年、14月、ベルメルがニコルイナ浮石をベアンシスで販売するために
+事業を展開する。アルサメルがその事業に参加したため、パスベルスも協力する
+こととなる。
+
+参考: `後期ベアンシスの文化 <https://github.com/pasberth/paslands/blob/master/source/rp/cultures/late_beancis.rst>`_
+
 .. [#d] `Bellsend <https://github.com/pasberth/Bellsend>`_
 
 パスベルスは、 1925年、x月にサイシア・エルからベアンシスへ
