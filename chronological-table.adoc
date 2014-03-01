@@ -112,7 +112,7 @@
 |1870
 |-
 |-
-|`3派戦争 <https://github.com/pasberth/paslands/blob/master/source/rp/history/three_war.rst>`_
+|https://github.com/pasberth/paslands/blob/master/source/rp/history/three_war.rst[3派戦争]
  が勃発した
 
 |187x
@@ -133,7 +133,7 @@
 |1884
 |-
 |-
-|`3派戦争 <https://github.com/pasberth/paslands/blob/master/source/rp/history/three_war.rst>`_
+|https://github.com/pasberth/paslands/blob/master/source/rp/history/three_war.rst[3派戦争]
  が終結した
 
 |1884
@@ -144,7 +144,7 @@
 |1884
 |-
 |-
-|`正統ルニアの奴隷に関する法律 <https://github.com/pasberth/paslands/blob/master/source/rp/history/slave_laws.rst>`_
+|https://github.com/pasberth/paslands/blob/master/source/rp/history/slave_laws.rst[正統ルニアの奴隷に関する法律]
  が定められた
 
 |1886
@@ -278,8 +278,8 @@
 |1905
 |-
 |-
-|`4国宣言 <https://github.com/pasberth/paslands/blob/master/source/rp/history/2nd_three_war.rst#4%E5%9B%BD%E5%AE%A3%E8%A8%80>`_ 。
- `第2次3派戦争 <https://github.com/pasberth/paslands/blob/master/source/rp/history/2nd_three_war.rst>`_
+|https://github.com/pasberth/paslands/blob/master/source/rp/history/2nd_three_war.rst#4%E5%9B%BD%E5%AE%A3%E8%A8%80[4国宣言]。
+ https://github.com/pasberth/paslands/blob/master/source/rp/history/2nd_three_war.rst[第2次3派戦争]
  が勃発した。
 
 |1905
@@ -530,7 +530,7 @@
 |1921
 |9
 |3
-|`トロー講和 <https://github.com/pasberth/paslands/blob/master/source/rp/history/2nd_three_war.rst#%E3%83%88%E3%83%AD%E3%83%BC%E8%AC%9B%E5%92%8C>`_ 
+|https://github.com/pasberth/paslands/blob/master/source/rp/history/2nd_three_war.rst#%E3%83%88%E3%83%AD%E3%83%BC%E8%AC%9B%E5%92%8[トロー講和]
  第2次3派戦争は終結した。
 
 |1921
