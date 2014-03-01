@@ -1,5 +1,4 @@
-海民
-=====
+= 海民
 
 海民は、ルン紀に存在する生物である。
 
@@ -30,8 +29,7 @@
 換羽は、恥ずかしいことであるので、換羽中の海民は人目を避けたり、
 服で羽が抜け落ちている部分を隠したりする。
 
-海中での生活
----------------
+== 海中での生活
 
 まず、衣装について。
 
@@ -44,8 +42,7 @@
 もちろん、服を着なくてもすぐに死ぬことはないが、それらの部分を温めることは体調不良を起こしにくく
 するという意味で、とても重要なので、海民は、海中でも手袋やブーツのような服を好んで着る。
 
-地上での生活
------------------
+== 地上での生活
 
 海民は、ほとんどの時間を海中ですごすが、地上で生活することもある。
 主な理由は、換羽のためである。換羽中の海民は、低温な海にいると死んでしまうので、
@@ -60,30 +57,28 @@
 衣装はルン人のものを着る。
 
 
-ボイルランド
----------------
+== ボイルランド
 
 フィーファニアなど、一部の地域では、サウナのように区画全体の海水を熱した建物があって、
 この区画をボイルランドという。温度は、通常36度前後に保たれている。
 ボイルランドは、換羽中の海民が利用する。
 
-参考文献
------------
+== 参考文献
 
-* `ジュゴン <http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%82%B4%E3%83%B3>`_
-* `ジュゴン目 <http://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%AE%E3%83%A5%E3%82%A6%E7%9B%AE>`_
-* `クジラ <http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B8%E3%83%A9>`_
-* `シロナガスクジラ <http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%8A%E3%82%AC%E3%82%B9%E3%82%AF%E3%82%B8%E3%83%A9>`_
-* `アザラシ <http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7>`_
-* `アシカ <http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%82%AB>`_
-* `トド <http://ja.wikipedia.org/wiki/%E3%83%88%E3%83%89>`_
-* `オットセイ <http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%83%88%E3%82%BB%E3%82%A4>`_
-* `ペンギン <http://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3>`_
-* `コウテイペンギン <http://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%83%86%E3%82%A4%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3>`_
-* `アデリーペンギン <http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3>`_
-* `ペンギンのふしぎ <http://plaza.rakuten.co.jp/lyravega/7011/>`_
-* `ペンギンとは <http://hopper.fc2web.com/about/all.html>`_
-* `半魚人 <http://ja.wikipedia.org/wiki/%E5%8D%8A%E9%AD%9A%E4%BA%BA>`_
-* `魚人 <http://dic.pixiv.net/a/%E9%AD%9A%E4%BA%BA>`_
-* `半魚人 <http://dic.nicovideo.jp/a/%E5%8D%8A%E9%AD%9A%E4%BA%BA>`_
-* `深きものども <http://ja.wikipedia.org/wiki/%E6%B7%B1%E3%81%8D%E3%82%82%E3%81%AE%E3%81%A9%E3%82%82>`_
+* http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%82%B4%E3%83%B3[ジュゴン]
+* http://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%AE%E3%83%A5%E3%82%A6%E7%9B%AE[ジュゴン目]
+* http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B8%E3%83%A9[クジラ]
+* http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AD%E3%83%8A%E3%82%AC%E3%82%B9%E3%82%AF%E3%82%B8%E3%83%A9[シロナガスクジラ]
+* http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7[アザラシ]
+* http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%82%AB[アシカ]
+* http://ja.wikipedia.org/wiki/%E3%83%88%E3%83%89[トド]
+* http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%83%88%E3%82%BB%E3%82%A4[オットセイ]
+* http://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3[ペンギン]
+* http://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%A6%E3%83%86%E3%82%A4%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3[コウテイペンギン]
+* http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3[アデリーペンギン]
+* http://plaza.rakuten.co.jp/lyravega/7011/[ペンギンのふしぎ]
+* http://hopper.fc2web.com/about/all.html[ペンギンとは]
+* http://ja.wikipedia.org/wiki/%E5%8D%8A%E9%AD%9A%E4%BA%BA[半魚人]
+* http://dic.pixiv.net/a/%E9%AD%9A%E4%BA%BA[魚人]
+* http://dic.nicovideo.jp/a/%E5%8D%8A%E9%AD%9A%E4%BA%BA[半魚人]
+* http://ja.wikipedia.org/wiki/%E6%B7%B1%E3%81%8D%E3%82%82%E3%81%AE%E3%81%A9%E3%82%82[深きものども]
