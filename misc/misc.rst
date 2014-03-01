@@ -8,6 +8,15 @@
 * `人間と同様の音声生成器官を持つ発話ロボット <http://www.youtube.com/watch?v=J_R7fgo0FLc&feature=youtu.be>`_
 * `より自然な歌唱が可能に 女性型ロボット <http://www.youtube.com/watch?v=6kKWnQ_LVbs>`_
 * `Google Glassを着けていたのが原因で女性が暴行されたことが判明 <http://gigazine.net/news/20140226-woman-google-glass-attacked/>`_
+* `南京事件－日中戦争　小さな資料集 <http://www.geocities.jp/yu77799/>`_
+* `フィッシュ・アンド・チップス <http://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%81%E3%83%83%E3%83%97%E3%82%B9>`_
+* `グレゴリオ暦 <http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%82%AA%E6%9A%A6>`_
+  (グレゴリオ暦は1582年に制定された。意外と最近らしい)
+
+* `メフィストフェレス <http://www.toroia.info/dict/index.php?cmd=read&page=%E8%A5%BF%E6%AC%A7/%E3%83%A1%E3%83%95%E3%82%A3%E3%82%B9%E3%83%88%E3%83%95%E3%82%A7%E3%83%AC%E3%82%B9>`_
+* `六大悪魔 <http://www1.atwiki.jp/occultfantasy/pages/943.html>`_
+* `フルーレティ <http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%83%BC%E3%83%AC%E3%83%86%E3%82%A3>`_
+* `USSケルヴィン <http://ja.memory-alpha.org/wiki/USS%E3%82%B1%E3%83%AB%E3%83%B4%E3%82%A3%E3%83%B3>`_
 
 影響を受けたと思われる作品
 
