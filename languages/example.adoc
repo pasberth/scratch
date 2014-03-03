@@ -14,4 +14,5 @@ IE と FireFox ではたぶん動作しません。
 |記号(ベアン語)                           |文字の名前  |文字の発音  |英語への転写
 |+++<span class="beanish">a</span>+++   |æk         |æ          |a
 |+++<span class="beanish">s</span>+++   |æs         |s          |s
+|+++<span class="beanish">l</span>+++   |lu         |l          |l
 |===
