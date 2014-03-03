@@ -141,3 +141,129 @@
 |===
 
 ////
+
+
+=== 単語対応表
+
+各言語の単語の対応表。
+
+現在はまだほとんどつくられていない。
+ベアン語やルン語をつくる上で、この表を埋めることを
+簡単な目標とする。
+
+文字はラテン文字で音写したものを用いること。
+活用がある場合は、もっとも基本的な語幹を書くこと。
+
+|===
+|English|Beanish
+|do     |as
+|visit  |-
+|wait   |-
+|collect|-
+|stay   |-
+|worry  |-
+|forget |-
+|grow   |-
+|invite |-
+|respect|-
+
+|care   |-
+|say    |-
+|send   |-
+|become |-
+|lose   |-
+|get    |-
+|nod    |-
+|shake  |-
+|receive|-
+|explain|-
+
+|happen |-
+|arrive |-
+|hear   |-
+|finish |-
+|save   |-
+|pay    |-
+|laugh  |-
+|choose |-
+|return |-
+|win    |-
+
+|understand|-
+|turn   |-
+|need   |-
+|think  |-
+|mean   |-
+|hope   |-
+|practice|-
+|move   |-
+|agree  |-
+|disagree|-
+
+|marry  |-
+|believe|-
+|try    |-
+|begin  |-
+|meet   |-
+|keep   |-
+|lend   |-
+|borrow |-
+|introduce|-
+|complain|-
+
+|quit   |-
+|hit    |-
+|cheer  |-
+|enter  |-
+|breathe|-
+|fail   |-
+|bark   |-
+|imagine|-
+|hide   |-
+|hate   |-
+
+|wear   |-
+|wish   |-
+|protect|-
+|sound  |-
+|show   |-
+|hurry  |-
+|fly    |-
+|smoke  |-
+|appear |-
+|disappear|-
+
+|join   |-
+|throw  |-
+|hang   |-
+|fight  |-
+|cry    |-
+|shine  |-
+|discuss|-
+|run    |-
+|discover|-
+|fix    |-
+
+|remember|-
+|find   |-
+|smell  |-
+|taste  |-
+|bite   |-
+|kill   |-
+|wake   |-
+|trust  |-
+|relax  |-
+|repeat |-
+
+|waste  |-
+|promise|-
+|cost   |-
+|order  |-
+|exchange|-
+|follow |-
+|belong |-
+|spend  |-
+|miss   |-
+|add    |-
+
+|===
