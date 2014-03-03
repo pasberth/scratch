@@ -1,0 +1,17 @@
+= Languages
+:toc:
+
+CAUTION: このページは独自のフォントを使用しているため、
+いくつかのブラウザでは正しく表示されないです。
+Safari, Opera, Chrome では動作します。
+IE と FireFox ではたぶん動作しません。
+
+== Beanish
+
+=== Table of Characters
+
+|===
+|記号(ベアン語)                           |文字の名前  |文字の発音  |英語への転写
+|+++<span class="beanish">a</span>+++   |æk         |æ          |a
+|+++<span class="beanish">s</span>+++   |æs         |s          |s
+|===
