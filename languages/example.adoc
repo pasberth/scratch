@@ -42,3 +42,8 @@ IE と FireFox ではたぶん動作しません。
 |p
 
 |===
+
+=== Pasberth のつづり
+
+[.beanish]
+pasberth
