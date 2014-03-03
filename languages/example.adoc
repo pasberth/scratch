@@ -11,9 +11,34 @@ IE と FireFox ではたぶん動作しません。
 === Table of Characters
 
 |===
-|記号(ベアン語)                           |文字の名前(ベアン語)                                |文字の名前  |文字の発音  |英語への転写
-|+++<span class="beanish">a</span>+++   |-                                                  |æk         |æ          |a
-|+++<span class="beanish">s</span>+++   |+++<span class="beanish">as</span>+++              |æs         |s          |s
-|+++<span class="beanish">l</span>+++   |-                                                  |lu         |l          |l
-|+++<span class="beanish">p</span>+++   |+++<span class="beanish">pal</span>+++             |pæl        |p          |p
+|記号(ベアン語)|大文字|文字の名前(ベアン語)|文字の名前|文字の発音|英語への転写
+
+|+++<span class="beanish">a</span>+++
+|+++<span class="beanish">A</span>+++
+|-
+|æk
+|æ
+|a
+
+|+++<span class="beanish">s</span>+++
+|-
+|+++<span class="beanish">as</span>+++
+|æs
+|s
+|s
+
+|+++<span class="beanish">l</span>+++
+|-
+|-
+|lu
+|l
+|l
+
+|+++<span class="beanish">p</span>+++
+|-
+|+++<span class="beanish">pal</span>+++
+|pæl
+|p
+|p
+
 |===
