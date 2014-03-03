@@ -156,6 +156,94 @@
 
 |===
 |English|Beanish
+|be     |esat
+|look   |-
+|watch  |-
+|see    |-
+|listen |-
+|feel   |-
+|have   |-
+|go     |as
+|help   |ras,ram
+|know   |-
+|afraid |-
+|tell   |-
+|speak  |-
+|talk   |-
+|call   |-
+|make   |-
+|bring  |-
+|carry  |-
+|lead   |-
+|reach  |-
+|act    |as
+|give   |-
+|teach  |-
+|show   |-
+|buy    |-
+|ask    |-
+|enjoy  |-
+|stop   |-
+|want   |-
+|start  |-
+|answer |-
+|thank  |-
+|sell   |-
+|work   |-
+|stand  |-
+|sit    |-
+|seat   |-
+|write  |-
+|read   |-
+|study  |-
+|learn  |-
+|put    |-
+|like   |-
+|love   |lu
+|sleep  |-
+|wear   |-
+|walk   |-
+|jump   |-
+|drive  |-
+|ride   |-
+|travel |-
+|swim   |fap
+|move   |-
+|cross  |-
+|turn   |-
+|use    |-
+|play   |-
+|sing   |-
+|dance  |-
+|change |-
+|cook   |-
+|communicate|-
+|die    |-
+|live   |lundor
+|leave  |-
+|touch  |-
+|cut    |-
+|pull   |-
+|push   |-
+|draw   |-
+|paint  |-
+|catch  |-
+|hold   |-
+|clean  |-
+|open   |-
+|close  |-
+|rise   |-
+|fall   |-
+|drop   |-
+|smile  |-
+|shout  |-
+|report |-
+|create |-
+|break  |-
+|last   |-
+|excuse |-
+|pandon |-
+
 |do     |as
 |visit  |-
 |wait   |-
@@ -267,3 +355,13 @@
 |add    |-
 
 |===
+
+////
+
+|trip   |-
+|movie  |-
+|useful |-
+|song   |-
+|sorry  |-
+
+////
