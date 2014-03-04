@@ -79,7 +79,7 @@ http://pasberth.github.io/scratch/languages.html
 === 単語
 
 |===
-|単語|意味|
+|単語|意味
 
 |sel|太陽
 |tal|月
