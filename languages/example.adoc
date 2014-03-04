@@ -79,6 +79,12 @@ IE と FireFox ではたぶん動作しません。
 |太陽
 |s
 
+|[widkim]#T#
+|[widkim]#TL# /tal/
+|/t/
+|月
+|t
+
 |[widkim]#V#
 |[widkim]#V# /wi/
 |/v/
@@ -131,11 +137,17 @@ IE と FireFox ではたぶん動作しません。
 |===
 
 
-=== Pasberth の表記
+=== 表記比較
+
+適当な単語を転写したもの。
 
 |===
 |英語|ウィドキム文字
 
 |pasberth
 |[widkim]#PSBRs#
+
+|pastolorth
+|[widkim]#PSTLRs#
+
 |===
