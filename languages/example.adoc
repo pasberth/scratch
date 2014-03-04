@@ -74,7 +74,7 @@ IE と FireFox ではたぶん動作しません。
 |s
 
 |[widkim]#V#
-|[widkin]#V# /wi/
+|[widkim]#V# /wi/
 |/v/
 |火
 |v
