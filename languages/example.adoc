@@ -7,59 +7,113 @@ CAUTION: このページは独自のフォントを使用しているため、
 Safari, Opera, Chrome では動作します。
 IE と FireFox ではたぶん動作しません。
 
-== Beanish
+== 文字
 
-=== Table of Characters
+=== ウィドキム文字
 
-|===
-|記号(ベアン語)|大文字|文字の名前(ベアン語)|文字の名前|文字の発音|英語への転写
+ウィドキム文字はベアン紀の紀元前18世紀〜9世紀頃にウィドキム人が
+使用していた文字。ウィドキムはルン紀のクルト海あたりで貿易をして
+繁栄したため、ウィドキム文字は世界中で用いられ、他の数々の文字に
+影響を与えた。ウィドキム文字は子音のみからなる文字体系(アブジャド)で、
+母音を表す文字はなかった。話すときはもちろん母音も発音するが、
+ウィキドム文字ではその母音は記述されず、前後の文脈から判断する。
 
-|+++<span class="beanish">a</span>+++
-|+++<span class="beanish">A</span>+++
-|-
-|æk
-|æ
-|a
-
-|+++<span class="beanish">b</span>+++
-|-
-|+++<span class="beanish">be</span>+++
-|be
-|b
-|b
-
-
-|+++<span class="beanish">e</span>+++
-|-
-|+++<span class="beanish">es</span>+++
-|es
-|e
-|e
-
-|+++<span class="beanish">s</span>+++
-|-
-|+++<span class="beanish">as</span>+++
-|æs
-|s
-|s
-
-|+++<span class="beanish">l</span>+++
-|-
-|-
-|lu
-|l
-|l
-
-|+++<span class="beanish">p</span>+++
-|-
-|+++<span class="beanish">pal</span>+++
-|pæl
-|p
-|p
+東/西を表す文字があるのに北/南を表す文字がないのは、
+東は右、西は左と考えられていて矢印の形にできるのに対して、
+北は前、南は後ろと考えられていて矢印の形にできなかったため。
 
 |===
+|記号|名前 /発音/|音素|文字の意味|英語への転写
 
-=== Pasberth のつづり
+|[widkim]#B#
+|[widkim]#B# /be/
+|/b/
+|紙
+|b
 
-[.beanish]
-pasberth
+|[widkim]#D#
+|[widkim]#DL# /dˈɔl/
+|/d/
+|木
+|d
+
+|[widkim]#F#
+|[widkim]#F# /fa/
+|/f/
+|水
+|f
+
+|[widkim]#G#
+|[widkim]#G# /gil/
+|/g/
+|右/東
+|g
+
+|[widkim]#L#
+|[widkim]#L# /el/
+|/l/
+|左/西
+|l
+
+|[widkim]#M#
+|[widkim]#MD# /md/
+|/m/
+|山
+|m
+
+|[widkim]#P#
+|[widkim]#PL# /pæl/
+|/p/
+|目
+|p
+
+|[widkim]#S#
+|[widkim]#SL# /sel/
+|/s/
+|太陽
+|s
+
+|[widkim]#V#
+|[widkin]#V# /wi/
+|/v/
+|火
+|v
+
+|[widkim]#W#
+|[widkim]#W# /wa/
+|/w/
+|空/アーチ
+|w
+
+|[widkim]#Y#
+|[widkim]#Y# /je/
+|/j/
+|翼
+|y
+|===
+
+=== トロハ文字
+
+トロハ文字は紀元前9世紀頃にトロハ人が
+ウィドキム文字をもとにつくった文字。
+母音が加えられた。この頃はまだ大文字しかなかった。
+
+|===
+|記号|文字の名前|文字の発音|英語への転写
+
+|[toloha]#Y#
+|/je/
+|/j/
+|y
+|===
+
+=== ベアン文字
+
+|===
+|記号|文字の名前|文字の発音|英語への転写
+
+|[beanish]#y#
+|/je/
+|/j/
+|y
+|===
