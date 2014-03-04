@@ -21,6 +21,14 @@ IE と FireFox ではたぶん動作しません。
 |æ
 |a
 
+|+++<span class="beanish">b</span>+++
+|-
+|-
+|be
+|b
+|b
+
+
 |+++<span class="beanish">s</span>+++
 |-
 |+++<span class="beanish">as</span>+++
