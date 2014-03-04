@@ -75,6 +75,25 @@ http://pasberth.github.io/scratch/languages.html
 |過去|否定|消極法|shounem
 |===
 
+
+=== 単語
+
+|===
+|単語|意味|
+|sel|太陽
+|tal|月
+|el|西/左
+|gil|東/右
+|dor|木
+|fa|水
+|ke|雷
+|md|山/土
+|pal|目
+|wi|火
+|wa|空
+|je|風/翼
+|===
+
 ////
 
 単語はぜんぶ作りなおしたほうがいいかもしれない
