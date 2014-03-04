@@ -23,11 +23,18 @@ IE と FireFox ではたぶん動作しません。
 
 |+++<span class="beanish">b</span>+++
 |-
-|-
+|+++<span class="beanish">be</span>+++
 |be
 |b
 |b
 
+
+|+++<span class="beanish">e</span>+++
+|-
+|+++<span class="beanish">es</span>+++
+|es
+|e
+|e
 
 |+++<span class="beanish">s</span>+++
 |-
