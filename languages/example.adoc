@@ -49,6 +49,12 @@ IE と FireFox ではたぶん動作しません。
 |右/東
 |g
 
+|[widkim]#K#
+|[widkim]#K# /ke/
+|/k/
+|雷
+|k
+
 |[widkim]#L#
 |[widkim]#L# /el/
 |/l/
