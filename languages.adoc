@@ -4,7 +4,7 @@
 
 いくつかの文字がつくられておりますが、
 フォントの関係上 GitHub で表示させることはできません。
-http://pasberth.github.io/scratch/languages/example.html
+http://pasberth.github.io/scratch/languages.html
 をごらんください
 
 === 動詞について
