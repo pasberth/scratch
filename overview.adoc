@@ -47,7 +47,7 @@
 
 簡単な大陸の地図
 
-image::img/map.svg[]
+image::img/map.png[]
 
 = 人種
 
