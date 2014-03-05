@@ -89,6 +89,12 @@ VDKM
 |目
 |p
 
+|[widkim]#Q#
+|[widkim]#QF# /kúfe/
+|/ku/
+|川
+|q
+
 |[widkim]#R#
 |[widkim]#RY# /ri/
 |/r/
