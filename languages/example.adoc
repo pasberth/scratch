@@ -1,5 +1,6 @@
 = Languages
 :docinfo:
+:icons: font
 :toc:
 
 CAUTION: このページは独自のフォントを使用しているため、
