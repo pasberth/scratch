@@ -119,6 +119,12 @@ VDKM
 |翼
 |y
 
+|[widkim]#Z#
+|[widkim]#Z# /za/
+|/z/
+|雨
+|z
+
 |[widkim]#s#
 |[widkim]#RYs# /riθ/
 |/θ/
