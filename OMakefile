@@ -1,11 +1,11 @@
-gh-pages/beanish0011.svg: languages/beanish.jade
-  jade < languages/beanish.jade > gh-pages/beanish0011.svg
+gh-pages/beanish0012.svg: languages/beanish.jade
+  jade < languages/beanish.jade > gh-pages/beanish0012.svg
 
 /tmp/languages.adoc: languages/example.adoc
   cp languages/example.adoc /tmp/languages.adoc
 
 /tmp/languages-docinfo.html: languages/example-docinfo.html
-  sed s/beanish.svg/beanish0011.svg/ languages/example-docinfo.html > /tmp/languages-docinfo.html
+  sed s/beanish.svg/beanish0012.svg/ languages/example-docinfo.html > /tmp/languages-docinfo.html
 
-gh-pages/languages.html: gh-pages/beanish0011.svg /tmp/languages.adoc /tmp/languages-docinfo.html
+gh-pages/languages.html: gh-pages/beanish0012.svg /tmp/languages.adoc /tmp/languages-docinfo.html
   asciidoctor /tmp/languages.adoc -o gh-pages/languages.html
