@@ -93,6 +93,9 @@ http://pasberth.github.io/scratch/languages.html
 |wi|火
 |wa|空
 |je|風/翼
+|za|雨
+|hak|雲
+|kufe|川
 |===
 
 ////
