@@ -53,6 +53,12 @@ VDKM
 |右/東
 |g
 
+|[widkim]#H#
+|[widkim]#HK# /hˈæk/
+|/h/
+|雲
+|h
+
 |[widkim]#K#
 |[widkim]#K# /ke/
 |/k/
