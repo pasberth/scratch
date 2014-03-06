@@ -1,1 +1,8 @@
+DefineCommandVars()
+
+if $(not $(defined MASHAPE_KEY))
+    println(MASHAPE_KEY is required.)
+    println(If you haven\'t Mashape account\, please get it on https://www.mashape.com/.)
+    exit(1)
+
 .SUBDIRS: .

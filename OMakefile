@@ -1,11 +1,21 @@
-gh-pages/beanish0012.svg: languages/beanish.jade
-  jade < languages/beanish.jade > gh-pages/beanish0012.svg
+gh-pages/widkim.svg: languages/widkim.jade
+  echo $(MASHAPE_KEY)
+  jade < languages/widkim.jade > gh-pages/widkim.svg
 
-/tmp/languages.adoc: languages/example.adoc
-  cp languages/example.adoc /tmp/languages.adoc
+gh-pages/widkim.eot: gh-pages/widkim.svg
+  curl -X POST 'https://ofc.p.mashape.com/directConvert/' -H "X-Mashape-Authorization: $(MASHAPE_KEY)" -F file=@gh-pages/widkim.svg -F format=eot > /tmp/widkim.eot.tar.gz
+  tar -xf /tmp/widkim.eot.tar.gz -C /tmp
+  cp /tmp/onlinefontconverter.com/converted-files/widkim.eot gh-pages/widkim.eot
 
-/tmp/languages-docinfo.html: languages/example-docinfo.html
-  sed s/beanish.svg/beanish0012.svg/ languages/example-docinfo.html > /tmp/languages-docinfo.html
+gh-pages/widkim.ttf: gh-pages/widkim.svg
+  curl -X POST 'https://ofc.p.mashape.com/directConvert/' -H "X-Mashape-Authorization: $(MASHAPE_KEY)" -F file=@gh-pages/widkim.svg -F format=ttf > /tmp/widkim.ttf.tar.gz
+  tar -xf /tmp/widkim.ttf.tar.gz -C /tmp
+  cp /tmp/onlinefontconverter.com/converted-files/widkim.ttf gh-pages/widkim.ttf
 
-gh-pages/languages.html: gh-pages/beanish0012.svg /tmp/languages.adoc /tmp/languages-docinfo.html
-  asciidoctor /tmp/languages.adoc -o gh-pages/languages.html
+gh-pages/widkim.woff: gh-pages/widkim.svg
+  curl -X POST 'https://ofc.p.mashape.com/directConvert/' -H "X-Mashape-Authorization: $(MASHAPE_KEY)" -F file=@gh-pages/widkim.svg -F format=woff > /tmp/widkim.woff.tar.gz
+  tar -xf /tmp/widkim.woff.tar.gz -C /tmp
+  cp /tmp/onlinefontconverter.com/converted-files/widkim.woff gh-pages/widkim.woff
+
+gh-pages/languages.html: languages/example.adoc languages/example-docinfo.html
+  asciidoctor languages/example.adoc -o gh-pages/languages.html
