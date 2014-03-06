@@ -1,5 +1,4 @@
 gh-pages/widkim.svg: languages/widkim.jade
-  echo $(MASHAPE_KEY)
   jade < languages/widkim.jade > gh-pages/widkim.svg
 
 gh-pages/widkim.eot: gh-pages/widkim.svg
