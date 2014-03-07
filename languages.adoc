@@ -7,6 +7,25 @@
 http://pasberth.github.io/scratch/languages.html
 をごらんください
 
+=== 主語について
+
+主語は名詞に対して **at** という接尾辞をつけたもの。
+たとえば、 Pasberthat で Pasberth が主語ということになる。
+主語は普通動詞より前に置くが、
+倒置法もある。
+
+例:
+
+|===
+|例文|訳
+
+|Pasberthat jeater
+|パスベルスは飛ぶ
+
+|Jeater Pasberthat
+|パスベルスは飛ぶ
+|===
+
 === 動詞について
 
 動詞は名詞に対して、動詞を作る接尾辞をつけたもの。たとえば ``行く'' という意味の
