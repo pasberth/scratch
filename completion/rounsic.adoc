@@ -99,118 +99,118 @@ VDKM
 ウィキドム文字ではその母音は記述されず、前後の文脈から判断します。
 
 |===
-|記号|名前 /発音/|音素|文字の意味|英語への転写
+|記号|記号の名前|記号の名前の発音|音素|文字の意味|英語への転写
 
 |[widkim]#B#
-|[widkim]#B# /be/
+|[widkim]#B#|/be/
 |/b/
 |紙
 |b
 
 |[widkim]#D#
-|[widkim]#DL# /dˈɔl/
+|[widkim]#DL#|/dˈɔl/
 |/d/
 |木
 |d
 
 |[widkim]#F#
-|[widkim]#F# /fa/
+|[widkim]#F#|/fa/
 |/f/
 |水
 |f
 
 |[widkim]#G#
-|[widkim]#G# /gil/
+|[widkim]#G#|/gil/
 |/g/
 |右/東
 |g
 
 |[widkim]#H#
-|[widkim]#HK# /hˈæk/
+|[widkim]#HK#|/hˈæk/
 |/h/
 |雲
 |h
 
 |[widkim]#K#
-|[widkim]#K# /ke/
+|[widkim]#K#|/ke/
 |/k/
 |雷
 |k
 
 |[widkim]#L#
-|[widkim]#L# /el/
+|[widkim]#L#|/el/
 |/l/
 |左/西
 |l
 
 |[widkim]#M#
-|[widkim]#MD# /md/
+|[widkim]#MD#|/md/
 |/m/
 |山
 |m
 
 |[widkim]#N#
-|[widkim]#RYN# /rin/
+|[widkim]#RYN#|/rin/
 |/n/
 |男性
 |n
 
 |[widkim]#P#
-|[widkim]#PL# /pæl/
+|[widkim]#PL#|/pæl/
 |/p/
 |目
 |p
 
 |[widkim]#Q#
-|[widkim]#QF# /kúfe/
+|[widkim]#QF#|/kúfe/
 |/ku/
 |川
 |q
 
 |[widkim]#R#
-|[widkim]#RY# /ri/
+|[widkim]#RY#|/ri/
 |/r/
 |もの
 |r
 
 |[widkim]#S#
-|[widkim]#SL# /sel/
+|[widkim]#SL#|/sel/
 |/s/
 |太陽
 |s
 
 |[widkim]#T#
-|[widkim]#TL# /tal/
+|[widkim]#TL#|/tal/
 |/t/
 |月
 |t
 
 |[widkim]#V#
-|[widkim]#V# /wi/
+|[widkim]#V#|/wi/
 |/v/
 |火
 |v
 
 |[widkim]#W#
-|[widkim]#W# /wa/
+|[widkim]#W#|/wa/
 |/w/
 |空/アーチ
 |w
 
 |[widkim]#Y#
-|[widkim]#Y# /je/
+|[widkim]#Y#|/je/
 |/j/
 |翼
 |y
 
 |[widkim]#Z#
-|[widkim]#Z# /za/
+|[widkim]#Z#|/za/
 |/z/
 |雨
 |z
 
 |[widkim]#s#
-|[widkim]#RYs# /riθ/
+|[widkim]#RYs#|/riθ/
 |/θ/
 |女性
 |th
