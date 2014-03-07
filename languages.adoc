@@ -96,6 +96,7 @@ http://pasberth.github.io/scratch/languages.html
 |za|雨
 |hak|雲
 |kufe|川
+|sel|day
 |===
 
 ////
