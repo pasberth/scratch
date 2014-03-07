@@ -1341,3 +1341,5 @@ MYIは、仕方がないので、すべてを押し流す大洪水を起こし�
 * http://ja.wikipedia.org/wiki/%E7%9F%B3%E7%82%AD%E7%B4%80[石炭紀]
 * http://www1.cts.ne.jp/~fleet7/Museum/Muse031.html[動力船の歴史]
 * http://blogs.yahoo.co.jp/takamino55/18485175.html[蒸気船が英国からインドまで喜望峰経由で遠距離航海に挑戦したのは1825年だった ]
+
+* http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1209-2.pdf[カオスの壁を越える天気予報への挑戦]
