@@ -55,3 +55,7 @@
 * http://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E6%96%87%E5%AD%97[ペルシア文字]
 * http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2%E6%96%87%E5%AD%97[ギリシア文字]
 * http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%88%E3%83%AB%E3%83%AA%E3%82%A2%E6%96%87%E5%AD%97[エトルリア文字]
+
+* http://www.eonet.ne.jp/~libell/1alpha.html[アルファベットの成立]
+* http://wedder.net/kotoba/letters1.html[アルファベットの歴史(1)]
+* http://giappone-etrusco.rejec.net/BBB.pdf[アルファベットの歴史(2) フェニキア文字の誕生]
