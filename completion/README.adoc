@@ -1,2 +1,4 @@
+書き散らしたものをまとめる
+ところです。 gh-pages に html をおいてあります
 
 http://pasberth.github.io/scratch/rounsic.html
