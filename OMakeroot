@@ -1,3 +1,5 @@
+CABAL_DEV = cabal-dev
+
 DefineCommandVars()
 
 if $(not $(defined MASHAPE_KEY))

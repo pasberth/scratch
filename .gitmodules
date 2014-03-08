@@ -1,3 +1,6 @@
 [submodule "gh-pages"]
 	path = gh-pages
 	url = git@github.com:pasberth/scratch.git
+[submodule ".vendor/fontconv"]
+	path = .vendor/fontconv
+	url = git@github.com:pasberth/fontconv.git

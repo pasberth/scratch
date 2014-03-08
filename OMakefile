@@ -1,23 +1,21 @@
 gh-pages/widkim.svg: languages/widkim.jade
   jade < languages/widkim.jade > gh-pages/widkim.svg
 
-gh-pages/widkim.eot: gh-pages/widkim.svg
-  curl -X POST 'https://ofc.p.mashape.com/directConvert/' -H "X-Mashape-Authorization: $(MASHAPE_KEY)" -F file=@gh-pages/widkim.svg -F format=eot > /tmp/widkim.eot.tar.gz
-  tar -xf /tmp/widkim.eot.tar.gz -C /tmp
-  cp /tmp/onlinefontconverter.com/converted-files/widkim.eot gh-pages/widkim.eot
+gh-pages/widkim.eot: bin/fontconv gh-pages/widkim.svg
+  ./bin/fontconv -k "$(MASHAPE_KEY)" -d gh-pages -f eot gh-pages/widkim.svg
 
 gh-pages/widkim.ttf: gh-pages/widkim.svg
-  curl -X POST 'https://ofc.p.mashape.com/directConvert/' -H "X-Mashape-Authorization: $(MASHAPE_KEY)" -F file=@gh-pages/widkim.svg -F format=ttf > /tmp/widkim.ttf.tar.gz
-  tar -xf /tmp/widkim.ttf.tar.gz -C /tmp
-  cp /tmp/onlinefontconverter.com/converted-files/widkim.ttf gh-pages/widkim.ttf
+  ./bin/fontconv -k "$(MASHAPE_KEY)" -d gh-pages -f ttf gh-pages/widkim.svg
 
 gh-pages/widkim.woff: gh-pages/widkim.svg
-  curl -X POST 'https://ofc.p.mashape.com/directConvert/' -H "X-Mashape-Authorization: $(MASHAPE_KEY)" -F file=@gh-pages/widkim.svg -F format=woff > /tmp/widkim.woff.tar.gz
-  tar -xf /tmp/widkim.woff.tar.gz -C /tmp
-  cp /tmp/onlinefontconverter.com/converted-files/widkim.woff gh-pages/widkim.woff
+  ./bin/fontconv -k "$(MASHAPE_KEY)" -d gh-pages -f woff gh-pages/widkim.svg
 
 gh-pages/languages.html: languages/example.adoc languages/example-docinfo.html
   asciidoctor languages/example.adoc -o gh-pages/languages.html
 
 gh-pages/rounsic.html: completion/rounsic.adoc completion/rounsic-docinfo.html
   asciidoctor completion/rounsic.adoc -o gh-pages/rounsic.html
+
+bin/fontconv: $(glob .vendor/fontconv/*)
+  cd .vendor/fontconv && $(CABAL_DEV) install
+  cp .vendor/fontconv/cabal-dev/bin/fontconv bin/fontconv
