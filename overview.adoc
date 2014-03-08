@@ -1556,3 +1556,9 @@ MYIは、仕方がないので、すべてを押し流す大洪水を起こし�
 * http://blogs.yahoo.co.jp/takamino55/18485175.html[蒸気船が英国からインドまで喜望峰経由で遠距離航海に挑戦したのは1825年だった ]
 
 * http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1209-2.pdf[カオスの壁を越える天気予報への挑戦]
+
+* http://ja.wikipedia.org/wiki/%E6%9B%9C%E6%97%A5[曜日]
+* http://ja.wikipedia.org/wiki/%E9%80%B1[週]
+* http://ja.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E5%B9%B4[太陽年]
+* http://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%AA%E3%82%A6%E3%82%B9%E6%9A%A6[ユリウス暦]
+* http://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%82%AA%E6%9A%A6[グレゴリオ暦]
