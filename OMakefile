@@ -4,10 +4,10 @@ gh-pages/widkim.svg: languages/widkim.jade
 gh-pages/widkim.eot: bin/fontconv gh-pages/widkim.svg
   ./bin/fontconv -k "$(MASHAPE_KEY)" -d gh-pages -f eot gh-pages/widkim.svg
 
-gh-pages/widkim.ttf: gh-pages/widkim.svg
+gh-pages/widkim.ttf: bin/fontconv gh-pages/widkim.svg
   ./bin/fontconv -k "$(MASHAPE_KEY)" -d gh-pages -f ttf gh-pages/widkim.svg
 
-gh-pages/widkim.woff: gh-pages/widkim.svg
+gh-pages/widkim.woff: bin/fontconv gh-pages/widkim.svg
   ./bin/fontconv -k "$(MASHAPE_KEY)" -d gh-pages -f woff gh-pages/widkim.svg
 
 gh-pages/languages.html: languages/example.adoc languages/example-docinfo.html
