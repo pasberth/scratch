@@ -18,4 +18,5 @@ gh-pages/rounsic.html: completion/rounsic.adoc completion/rounsic-docinfo.html
 
 bin/fontconv: $(glob .vendor/fontconv/*)
   cd .vendor/fontconv && $(CABAL_DEV) install
+  mkdir bin
   cp .vendor/fontconv/cabal-dev/bin/fontconv bin/fontconv
