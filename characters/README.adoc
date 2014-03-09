@@ -11,3 +11,7 @@ image::myi.png[]
 == シャーサ
 
 image::fastothiasarry.png[]
+
+== パスベルス
+
+image::pasberth.png[]
