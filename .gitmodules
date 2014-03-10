@@ -4,3 +4,6 @@
 [submodule ".vendor/fontconv"]
 	path = .vendor/fontconv
 	url = git@github.com:pasberth/fontconv.git
+[submodule ".vendor/asciidoctor-html5ruby"]
+	path = .vendor/asciidoctor-html5ruby
+	url = git@github.com:pasberth/asciidoctor-html5ruby.git
