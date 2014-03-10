@@ -14,7 +14,7 @@ gh-pages/languages.html: languages/example.adoc languages/example-docinfo.html
   asciidoctor languages/example.adoc -o gh-pages/languages.html
 
 gh-pages/rounsic.html: completion/rounsic.adoc completion/rounsic-docinfo.html
-  asciidoctor completion/rounsic.adoc -o gh-pages/rounsic.html
+  ruby -rasciidoctor-html5ruby -S asciidoctor completion/rounsic.adoc -o gh-pages/rounsic.html
 
 bin/fontconv: $(glob .vendor/fontconv/*)
   cd .vendor/fontconv && $(CABAL_DEV) install
