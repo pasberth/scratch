@@ -14,7 +14,7 @@ class BracketTreeprocessor < Asciidoctor::Extensions::Treeprocessor
 
   def process_blocks node
     node.blocks.each_with_index do |block, i|
-      if block.context == :paragraph and block.lines.first.start_with?('「')
+      if block.context == :paragraph and %w(「 （).include?(block.lines.first[0])
         block.attributes['role'] ||= ""
         block.attributes['role'] += "bracket"
       elsif block.blocks?
