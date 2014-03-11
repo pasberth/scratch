@@ -1,0 +1,34 @@
+#!/usr/bin/env ruby
+# coding: utf-8
+
+require "asciidoctor"
+require "asciidoctor/extensions"
+require "asciidoctor/cli/invoker"
+require "asciidoctor/cli/options"
+
+class BracketTreeprocessor < Asciidoctor::Extensions::Treeprocessor
+  def process
+    return unless @document.blocks?
+    process_blocks @document
+  end
+
+  def process_blocks node
+    node.blocks.each_with_index do |block, i|
+      if block.context == :paragraph and block.lines.first.start_with?('「')
+        block.attributes['role'] ||= ""
+        block.attributes['role'] += "bracket"
+      elsif block.blocks?
+        process_blocks block
+      end
+    end
+  end
+end
+
+Asciidoctor::Extensions.register do |document|
+  treeprocessor BracketTreeprocessor
+end
+
+invoker = Asciidoctor::Cli::Invoker.new ARGV
+GC.start
+invoker.invoke!
+exit invoker.code
