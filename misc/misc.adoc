@@ -19,6 +19,18 @@
 * http://ja.memory-alpha.org/wiki/USS%E3%82%B1%E3%83%AB%E3%83%B4%E3%82%A3%E3%83%B3[USSケルヴィン]
 * http://whats.be/3792[1日を1秒で描いたショートムービー。これが子供からみた戦争の姿]
 * http://www.eps1.comlink.ne.jp/~mayus/milkhist.html[牛乳の歴史]
+* http://fps01.plala.or.jp/~brainx/asahi1.htm[臓器摘出時に「脳死」の患者が動くって、
+本当ですか？ ]
+* http://blog.yokokanno.com/?eid=6[人間が溶鉱炉に落ちるとどうなるか]
+* http://www.nikon.co.jp/channel/stars/1306/index.htm[2013年6月の星空]
+* http://homepage2.nifty.com/ysc/E-Msys.pdf[地球自転の遅れと月の後退]
+* http://ja.wikipedia.org/wiki/%E5%9B%9B%E5%A4%A7%E5%85%83%E7%B4%A0[四大元素]
+* http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E6%9A%A6[ローマ暦]
+* http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%B3[オルゴン]
+* http://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E7%9A%84%E3%82%BE%E3%83%B3%E3%83%93[哲学的ゾンビ]
+* http://www.authagraph.com/projects/description/%E3%80%90%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AC%E3%80%91%E8%A8%98%E4%BA%8B01/?lang=ja[AuthaGraph World Mapについて]
+* http://www.afpbb.com/articles/-/3009728
+* http://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%88%E3%81%AE%E9%9B%B2[オールトの雲]
 
 影響を受けたと思われる作品
 
@@ -33,6 +45,7 @@
 * http://www.hcn.zaq.ne.jp/___/SVG11-2nd/paths.html
 * http://jade-lang.com/
 * http://www.h2.dion.ne.jp/~defghi/svgMemo/svgMemo_16.htm
+* www.microugly.com/inkscape-quickguide/
 
 言語作成のための参考資料
 
@@ -62,3 +75,13 @@
 * http://www.eonet.ne.jp/~libell/1alpha.html[アルファベットの成立]
 * http://wedder.net/kotoba/letters1.html[アルファベットの歴史(1)]
 * http://giappone-etrusco.rejec.net/BBB.pdf[アルファベットの歴史(2) フェニキア文字の誕生]
+* http://www.asahi-net.or.jp/~ax2s-kmtn/ref/numeral/ar.html
+* http://www.m-matsu.com/egypt/study/hiero.html
+* http://www.salika.co.jp/russian/jrus_vow.html
+* http://ja.wikipedia.org/wiki/%E3%83%91%E3%83%95%E3%83%A9%E3%83%B4%E3%82%A3%E3%83%BC%E6%96%87%E5%AD%97[パフラヴィー文字]
+
+小説を書くにあたって
+
+* http://k3doriru.web.fc2.com/first_step/line.htm[改行のルール]
+* http://coterie-mix.net/knowledge/novel/1/3/[小説の描き方と知識]
+* http://novelgakuen.com/danraku.html[段落を作ったり、改行するための規則・基礎]
