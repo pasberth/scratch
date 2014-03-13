@@ -1,0 +1,15 @@
+= 死の世界からの放浪者
+:docinfo:
+:toc:
+:numbered:
+Pasberth <pasberth@gmail.com>
+v1.0, March 11, 2014: Published
+:k_now: いま
+
+== プロローグ
+
+include::prologue.adoc[]
+
+== 第1幕
+
+include::1.adoc[]
