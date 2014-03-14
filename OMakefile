@@ -20,3 +20,9 @@ bin/fontconv: $(glob .vendor/fontconv/*)
   cd .vendor/fontconv && $(CABAL_DEV) install
   mkdir bin
   cp .vendor/fontconv/cabal-dev/bin/fontconv bin/fontconv
+
+gh-pages/map.svg: img/map0.svg
+  cp img/map0.svg gh-pages/map.svg
+
+gh-pages/map.html: img/map.html
+  cp img/map.html gh-pages/map.html
