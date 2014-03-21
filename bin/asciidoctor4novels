@@ -16,7 +16,7 @@ class BracketTreeprocessor < Asciidoctor::Extensions::Treeprocessor
     node.blocks.each_with_index do |block, i|
       if block.context == :paragraph
         block.lines.each do |line|
-          line.gsub!(/[！？]+(?!$|」|）)/) { "[bang]##{$~}#" }
+          line.gsub!(/[！？](?!$|[！？」）])/) { "[bang]##{$~}#" }
         end
       end
 
