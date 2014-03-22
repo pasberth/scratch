@@ -7,3 +7,6 @@
 [submodule ".vendor/asciidoctor-html5ruby"]
 	path = .vendor/asciidoctor-html5ruby
 	url = git@github.com:pasberth/asciidoctor-html5ruby.git
+[submodule ".vendor/asciidoctor"]
+	path = .vendor/asciidoctor
+	url = git@github.com:asciidoctor/asciidoctor.git
