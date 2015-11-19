@@ -1,2 +1,0 @@
-index.html: index.adoc index-docinfo.html prologue.adoc 1.adoc
-  ruby -rasciidoctor-html5ruby -S ../../bin/asciidoctor4novels index.adoc
